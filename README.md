@@ -1,5 +1,6 @@
 Implementation of a Markov Chain to simulate language output.
 Program saves a frequency table to a file, reads a frequency table from a file, and uses the frequencies to determine text output.
+
 Program is runnable with the command: ./mark COMMAND options where COMMAND is either "read" or "generate".
 
 If COMMAND is read then the command is:
