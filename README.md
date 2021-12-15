@@ -1,4 +1,4 @@
-Implementation of a Markov Chain to simulate language output.
+Generating random text: a Markov chain algorithm
 Program saves a frequency table to a file, reads a frequency table from a file, and uses the frequencies to determine text output.
 
 Program is runnable with the command: ./mark COMMAND options where COMMAND is either "read" or "generate".
